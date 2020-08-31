@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62984738-c3c8-4cb7-bfba-fa94d402f7be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Program Files\Maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../JAVA开发软件/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\Program Files\Java项目\JAVA开发软件\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y6b2uwBFsBUc2u63ZaQS5AtXcz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itybh.ui.Client" />
+      <module name="Spring01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62984738-c3c8-4cb7-bfba-fa94d402f7be" name="Default Changelist" comment="" />
+      <created>1582265787411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582265787411</updated>
+      <workItem from="1582265789159" duration="7188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="723" height="262" key="GridCell.Tab.0.bottom" timestamp="1582272994939">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="262" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582272994939" />
+    <state width="723" height="262" key="GridCell.Tab.0.center" timestamp="1582272994939">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="262" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1582272994939" />
+    <state width="723" height="262" key="GridCell.Tab.0.left" timestamp="1582272994939">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="262" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1582272994939" />
+    <state width="723" height="262" key="GridCell.Tab.0.right" timestamp="1582272994939">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="262" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582272994939" />
+    <state width="723" height="262" key="GridCell.Tab.1.bottom" timestamp="1582272994940">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="262" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582272994940" />
+    <state width="723" height="262" key="GridCell.Tab.1.center" timestamp="1582272994940">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="262" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1582272994940" />
+    <state width="723" height="262" key="GridCell.Tab.1.left" timestamp="1582272994940">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="262" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1582272994940" />
+    <state width="723" height="262" key="GridCell.Tab.1.right" timestamp="1582272994940">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="262" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1582272994940" />
+    <state x="540" y="59" key="SettingsEditor" timestamp="1582267210455">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="540" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1582267210455" />
+    <state x="833" y="100" key="spring file set editor" timestamp="1582268688271">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="833" y="100" key="spring file set editor/0.0.1536.834@0.0.1536.834" timestamp="1582268688271" />
+  </component>
+</project>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="588d20dc-4c10-4b72-85cb-1bff0f05bb98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Program Files\Maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../JAVA开发软件/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\Program Files\Java项目\JAVA开发软件\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAJLiKZyl1zVYf2YgJYO4gxLtV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest.testFindAll">
+    <configuration name="AccountServiceTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring07_account-annoioc_withoutxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring07_account-annoioc_withoutxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryRunnerTest.testQueryRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring07_account-annoioc_withoutxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itybh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itybh.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itybh.test.QueryRunnerTest" />
+      <option name="METHOD_NAME" value="testQueryRunner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest.testFindAll" />
+        <item itemvalue="JUnit.QueryRunnerTest.testQueryRunner" />
+        <item itemvalue="JUnit.AccountServiceTest.testSave" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="588d20dc-4c10-4b72-85cb-1bff0f05bb98" name="Default Changelist" comment="" />
+      <created>1582379410471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582379410471</updated>
+      <workItem from="1582379411793" duration="3490000" />
+      <workItem from="1582427779510" duration="4789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582379849580">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="577" y="342" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1582379849580" />
+    <state x="932" y="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1582379852516">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="932" y="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.834@0.0.1536.834" timestamp="1582379852516" />
+    <state x="883" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582381903232">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="883" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1582381903232" />
+    <state width="723" height="211" key="GridCell.Tab.0.bottom" timestamp="1582432912184">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1582432912184" />
+    <state width="723" height="211" key="GridCell.Tab.0.center" timestamp="1582432912184">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1582432912184" />
+    <state width="723" height="211" key="GridCell.Tab.0.left" timestamp="1582432912184">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1582432912184" />
+    <state width="723" height="211" key="GridCell.Tab.0.right" timestamp="1582432912184">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="723" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1582432912184" />
+    <state x="832" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1582427782875">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="832" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1582427782875" />
+    <state x="808" y="191" key="run.anything.popup" timestamp="1582428550845">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="808" y="191" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1582428550845" />
+  </component>
+</project>
